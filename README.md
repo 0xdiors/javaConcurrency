@@ -14,4 +14,4 @@
 
 
 #学习教程
-该学习笔记记录时LZ写博客时记录的例子，所有的博文全部都在，[http://cmsblogs.com/?cat=97](http://cmsblogs.com/?cat=97,"java并发编程")
+该学习笔记记录时LZ写博客时记录的例子，所有的博文全部都在，[http://cmsblogs.com/?cat=97](http://cmsblogs.com/?cat=97 "java并发编程")
