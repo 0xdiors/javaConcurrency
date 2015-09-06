@@ -1,5 +1,17 @@
 package com.concurrency.Semaphore;
 
+/**
+ * 
+ * @Project:javaConcurrency
+ * @file:Job.java
+ *
+ * @Author:chenssy
+ * @email:chenssy995812509@163.com
+ * @url : http://cmsblogs.com
+ * @qq : 122448894
+ *
+ * @data:2015Äê9ÔÂ6ÈÕ
+ */
 public class Job implements Runnable{
 	private PrintQueue printQueue;
 	

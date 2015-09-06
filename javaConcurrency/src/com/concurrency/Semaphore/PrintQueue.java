@@ -2,6 +2,18 @@ package com.concurrency.Semaphore;
 
 import java.util.concurrent.Semaphore;
 
+/**
+ * 打印任务
+ * @Project:javaConcurrency
+ * @file:PrintQueue.java
+ *
+ * @Author:chenssy
+ * @email:chenssy995812509@163.com
+ * @url : http://cmsblogs.com
+ * @qq : 122448894
+ *
+ * @data:2015年9月6日
+ */
 public class PrintQueue {
 	private final Semaphore semaphore;   //声明信号量
 	
