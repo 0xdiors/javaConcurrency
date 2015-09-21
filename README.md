@@ -5,7 +5,6 @@
 * 1.简单易学，结构清晰
 * 2.例子经典、通俗易懂
 
-
 #结构
 采用较为清晰的结构来部署，读者可以通过包名就知道相应目录的学习内容了
 
@@ -16,7 +15,7 @@
 | code        | blogs           
 | ------------- |:-------------:
 | synchronize      |  [【Java并发编程实战】—–synchronized](http://cmsblogs.com/?p=1643) |
-| ReentrantLock      | [【Java并发编程实战】—–synchronized](http://cmsblogs.com/?p=1643) |
+| ReentrantLock      | [【Java并发编程实战】—–“J.U.C”：ReentrantLock之一简介](http://cmsblogs.com/?p=1655) |
 | ReentrantLock      | [【Java并发编程实战】—–“J.U.C”：ReentrantLock之二lock方法分析](http://cmsblogs.com/?p=1662) |
 | ReentrantLock      | [【Java并发编程实战】—–“J.U.C”：ReentrantLock之三unlock方法分析](http://cmsblogs.com/?p=1665) |
 | condition  |  [【Java并发编程实战】—–“J.U.C”：Condition](http://cmsblogs.com/?p=1669)      |
@@ -27,13 +26,3 @@
 | Phaser  |  |
 | Exchanger  |  |
 
-
-* synchronize           -----
-* ReentrantLock         -----[【Java并发编程实战】—–“J.U.C”：ReentrantLock之一简介](http://cmsblogs.com/?p=1655)、[【Java并发编程实战】—–“J.U.C”：ReentrantLock之二lock方法分析](http://cmsblogs.com/?p=1662)、[【Java并发编程实战】—–“J.U.C”：ReentrantLock之三unlock方法分析](http://cmsblogs.com/?p=1665)
-* condition             -----[【Java并发编程实战】—–“J.U.C”：Condition](http://cmsblogs.com/?p=1669)
-* ReentrantReadWriteLock-----
-* Semaphore             -----
-* CyclicBarrier         -----
-* CountDownLathc        -----
-* Phaser                -----
-* Exchanger
