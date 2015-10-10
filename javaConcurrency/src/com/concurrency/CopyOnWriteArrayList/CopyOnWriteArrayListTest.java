@@ -40,7 +40,6 @@ public class CopyOnWriteArrayListTest {
 				printAll();
 			}
 		}
-
 	}
 	
 	private static void printAll() {
